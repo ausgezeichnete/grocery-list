@@ -1,0 +1,6 @@
+npx create-react-app Shopping
+npm start
+--------------------------------------------------------
+snippets:
+rfce :to create component file with Import and Export 
+usf : to use state
